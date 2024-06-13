@@ -1,10 +1,3 @@
-# my-kitty-config
-
-the kitty config for tmux users
-
-the shortcuts (key bindings) is heavily inspired by [Oh my tmux!](https://github.com/gpakosz/.tmux#bindings)
-
-mainly used under Linux
 
 ## usage
 
